@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Evelina
+   last: Bakhturina
+email: eb2992@nyu.edu
+leaderboard: Eve-B
